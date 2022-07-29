@@ -1,0 +1,6 @@
+src/vendor
+current
+releases
+storage
+.env
+src/Envoy.blade.php
